@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Youtube-clipper-skill" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/anthropics-skills" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/awesome-claude-skills" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/notebooklm-skill" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/resume-skills" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/skill-from-masters" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/skills" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/x-article-publisher-skill" vcs="Git" />
+  </component>
+</project>
